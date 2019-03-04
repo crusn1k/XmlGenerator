@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <game>
+        <dota2 version="7.1.5">
+            <players>
+                <player id="1">
+                    <name>tazz</name>
+                </player>
+                <player id="2">
+                    <name>casper</name>
+                </player>
+            </players>
+            <items>
+                <item itemName="sange"/>
+                <item itemName="yasha"/>
+            </items>
+        </dota2>
+    </game>
+</root>
